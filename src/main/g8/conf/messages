@@ -1,1 +1,1 @@
-app.title=Scaffolding Play!
+app.title=$name;format="norm"$

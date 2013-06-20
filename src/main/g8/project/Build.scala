@@ -4,8 +4,8 @@ import play.Project._
 
 object ApplicationBuild extends Build {
 
-  val appName         = "play-scaffold"
-  val appVersion      = "1.0-SNAPSHOT"
+  val appName         = "$name;format="norm"$"
+  val appVersion      = "$version$"
 
   val appDependencies = Seq(
     // Add your project dependencies here,

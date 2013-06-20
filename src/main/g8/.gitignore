@@ -22,3 +22,5 @@ server.pid
 dist
 /out
 /RUNNING_PID
+*.swp
+.DS_Store

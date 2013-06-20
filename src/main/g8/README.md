@@ -1,4 +1,4 @@
-scaffold-play
+$name;format="norm"$
 =============
 
-Play framework scaffold with basic login and registration
+$description$
