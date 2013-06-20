@@ -1,0 +1,15 @@
+@(loginForm: Form[(String,String)])
+
+@main {
+
+	<section class="singletile">
+
+		@logintile(loginForm)
+
+		<div class="well span6">
+			<a href="@routes.RegistrationAuthentication.showRegistration">Register</a>
+		</div>
+
+	</section>
+
+}
